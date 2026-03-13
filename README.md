@@ -81,9 +81,12 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 ## Loss Vs Epoch Plot
 
+<img width="668" height="489" alt="image" src="https://github.com/user-attachments/assets/43fd9391-1a96-4fb1-ad12-5d391d066e5d" />
 
 
 ### Sample Text Prediction
+
+<img width="414" height="406" alt="image" src="https://github.com/user-attachments/assets/42259db0-62c9-43c9-afb8-7d29a45c8658" />
 
 
 ## RESULT
